@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+
+
+.button-clear.button-clear {
+    border-color: transparent;
+    background: 0 0;
+    box-shadow: none;
+    color: #b2b2b2;
+}
